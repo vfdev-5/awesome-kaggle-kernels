@@ -18,3 +18,5 @@ A list of subjectively chosen *awesome* Kaggle kernels on different thematics. F
 
 ## Technics :
 - [Anisotropic - Introduction to Ensembling/Stacking in Python](https://www.kaggle.com/arthurtok/titanic/introduction-to-ensembling-stacking-in-python)
+
+- [Kyle HounslowA - Method for Finding Leaked Images in Test Set](https://www.kaggle.com/kylehounslow/a-method-for-finding-leaked-images-in-test-set)
